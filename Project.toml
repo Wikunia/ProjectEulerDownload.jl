@@ -1,0 +1,13 @@
+name = "ProjectEulerDownload"
+uuid = "ef2c98ea-e6e7-4c33-b853-b3d3665cbf0e"
+authors = ["Ole Kröger <o.kroeger@opensourc.es>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
