@@ -2,7 +2,6 @@ module ProjectEulerDownload
 
 using JSON
 using Cascadia
-using DataFrames
 using Gumbo
 using HTTP
 
